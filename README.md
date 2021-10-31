@@ -26,4 +26,5 @@ This is the verifier side file that will be used to verify the user at the time 
 ## How to run
 
 -> Use npm serve in the folder to start the Booking and UIDAI Auth application and use it in Inspect mode
+
 -> Google Colab can be run just by going over to Runtime -> Run all
