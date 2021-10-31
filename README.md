@@ -6,7 +6,7 @@ Team Name: SMEC Hackathon
 
 ## How It Works
 
-### UIDAI Auth
+### UIDAI Authentication
 This is a sample interface of how the UIDAI Website looks like. This will be used to generate the XML File for it to be uploaded during booking of an application. 
 
 ### Booking
