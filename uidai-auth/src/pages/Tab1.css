@@ -1,0 +1,8 @@
+ion-content ion-toolbar {
+  --background: translucent;
+}
+.Cards{
+  padding-top: 2rem;
+  display: grid;
+  grid-auto-flow: column;
+}

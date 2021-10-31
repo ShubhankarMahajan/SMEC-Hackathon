@@ -1,0 +1,16 @@
+ion-content ion-toolbar {
+  --background: translucent;
+}
+ion-item{
+  padding: 10px;
+}
+.spac{
+  /* padding-top: 10px; */
+  padding-left: 10px;
+}
+.spac-1{
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 50px;
+}
