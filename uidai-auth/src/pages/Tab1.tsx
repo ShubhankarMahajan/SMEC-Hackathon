@@ -24,10 +24,10 @@ const Tab1: React.FC = () => {
         <div>
           <IonCard href="/tab3">
             <IonCardHeader>
-              <IonCardTitle><p style={{textAlign:"center",paddingTop:"15px"}}>QR Code</p></IonCardTitle>
+              <IonCardTitle><p style={{textAlign:"center",paddingTop:"15px"}}>Generate XML</p></IonCardTitle>
             </IonCardHeader>
             <IonCardContent>
-              Create a QR Code for easy Access of Aadhaar Verification.
+              Generate a XML file for safe verification during check-in.
             </IonCardContent>
           </IonCard>
           <IonCard>
