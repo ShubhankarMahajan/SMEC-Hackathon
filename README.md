@@ -14,3 +14,11 @@ This is a sample Interface that is used During the booking of Airport / Stadium 
 
 ### Face-Recognition
 This is the verifier side file that will be used to verify the user at the time of check-in. It scans the QR Code that was provided to the user during registration. It will then scan the face and compare it with the one provided in the Aadhaar Card (Taken from the XML File and decoded from base64). It will return True/False saying if the user is verified/not verified respectively. The program runs on Google Colab and requires the use of few libraries which are provided in the first cell of the code.
+
+## Requirements
+
+1. Nodejs
+2. Ionic
+3. React
+4. Google Colab (Browser)
+5. Packages mentioned in Google Colab. (Contains installation commands)
